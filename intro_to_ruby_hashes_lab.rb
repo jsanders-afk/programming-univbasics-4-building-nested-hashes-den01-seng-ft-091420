@@ -48,4 +48,3 @@ def monopoly_with_fourth_tier
    }
 }
 :railroads[names]
-binding.pry
