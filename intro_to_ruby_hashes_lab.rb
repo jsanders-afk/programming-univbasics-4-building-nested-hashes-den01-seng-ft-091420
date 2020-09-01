@@ -47,4 +47,4 @@ def monopoly_with_fourth_tier
     }
    }
 }
-:railroads[names]
+:railroads[:names][:reading_railroad][mor]
