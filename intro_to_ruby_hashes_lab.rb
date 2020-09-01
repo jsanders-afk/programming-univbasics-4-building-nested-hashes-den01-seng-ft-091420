@@ -47,8 +47,8 @@ def monopoly_with_fourth_tier
     }
    }
 }
-:railroads[:names][:reading_railroad][:mortgage_value]
-:railroads[:names][:reading_railroad][:mortgage_value] = 100
+mon[:railroads][:names][:reading_railroad][:mortgage_value]
+mon[:railroads]:names][:reading_railroad][:mortgage_value] = 100
 mon
 end
 
